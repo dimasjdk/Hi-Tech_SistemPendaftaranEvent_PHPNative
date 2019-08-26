@@ -1,0 +1,41 @@
+Workshop				Talkshow
+- Pilih Event				- Nama lengkap
+- Nama Lengkap				- Jurusan
+- Nim					- Email
+- Email					- No.hp
+- No.hp
+
+
+Mini Hackaton
+- Pilih Event
+- Asal Univ
+- Nama Tim
+
+- Nama Ketua
+- Email
+- No.hp
+- Lampiran KTM
+
+- Nama Anggota 1
+- email
+- no.hp
+- lampiran ktm
+
+- Nama anggota 2
+- email
+- no.hp
+- lampiran ktm 
+
+Software Fair
+- Pilih Event
+- Asal Univ
+- Nama Aplikasi
+- Jenis Program
+- Nama anggota 1
+- email
+- no.hp
+- lampiran ktm
+- Nama anggota 2
+- email
+- no.hp
+- lamp11iran ktm
